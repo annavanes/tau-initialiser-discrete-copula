@@ -1,6 +1,10 @@
 # tau-initialiser-discrete-copula
 Implementation code for van Es, Anna and Cantoni, Eva. "Novel tau-informed initialization for maximum likelihood estimation of copulas with discrete margins" Dependence Modeling, vol. 14, no. 1, 2026, pp. 20250020. https://doi.org/10.1515/demo-2025-0020                     
 
+DOI for this repository:
+
+[![DOI](https://zenodo.org/badge/1356935804.svg)](https://doi.org/10.5281/zenodo.22893758)
+
 ## R
 The folder "R" contains all simulation codes:
 
