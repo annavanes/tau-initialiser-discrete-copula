@@ -3,7 +3,7 @@ Implementation code for van Es, Anna and Cantoni, Eva. "Novel tau-informed initi
 
 DOI for this repository:
 
-[![DOI](https://zenodo.org/badge/1356935804.svg)](https://doi.org/10.5281/zenodo.22893758)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.22893758-blue.svg)](https://doi.org/10.5281/zenodo.22893758)
 
 ## R
 The folder "R" contains all simulation codes:
